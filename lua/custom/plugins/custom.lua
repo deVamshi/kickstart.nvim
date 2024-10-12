@@ -6,4 +6,7 @@ vim.opt.expandtab = true
 -- disabled symbols for whitespaces chars like tab
 vim.opt.list = false
 
+-- auto write
+vim.opt.aw = true
+
 return {}
